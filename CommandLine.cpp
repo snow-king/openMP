@@ -9,9 +9,8 @@
 CommandLine::CommandLine()
 {
     setColorCmd(3);
-    std::cout << "Вариант №4. Дана последовательность натуральных чисел {a0…an–1}.\n"
-              << "Создать многопоточное приложение для поиска суммы квадратных\n"
-              << "корней из элементов данной последовательности.\n";
+    std::cout << "Option №5. Given a sequence of natural numbers  {a0…an–1}.\n"
+              << "Create a multi-threaded application to find the maximum ai\n"
 }
 
 
